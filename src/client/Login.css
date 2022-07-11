@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media all and (min-width: 480px) {
+    .Login {
+      padding: 60px 0;
+    }
+    
+    .form {
+      margin: 0 auto;
+      max-width: 320px;
+      background-color: blue;
+    }
+  }
+  .Login {
+    padding: 60px 0;
+  }
+  .form {
+    margin: 0 auto;
+    max-width: 320px;
+    background-color:darkslategray;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    
+    height: 20rem;
+    margin: auto;
+  }
+  .pointerCursor:hover {
+    cursor:pointer;
+  }
+  .form_input {
+    width: 100%;
+  }

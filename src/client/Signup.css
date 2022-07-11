@@ -1,0 +1,10 @@
+a {
+    color: #00F
+    
+  }
+  a:hover {
+    color: #00F
+  }
+  .pointerCursor:hover {
+    cursor:pointer;
+  }
