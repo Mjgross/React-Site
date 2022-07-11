@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mjgross.github.io/React-Site-Project",
+  "homepage": "https://mjgross.github.io/React-Site",
   "dependencies": {
     "@apollo/client": "^3.6.6",
     "@testing-library/jest-dom": "^5.16.4",
